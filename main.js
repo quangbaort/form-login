@@ -7973,7 +7973,7 @@ var _gsScope = "undefined" != typeof module && module.exports && "undefined" != 
             h = !1
         }
     }("undefined" != typeof module && module.exports && "undefined" != typeof global ? global : this || window, "TweenMax");
-var active = ['HiBlue'];
+var active = ['HiBlue 💓'];
 var index = Math.floor((Math.random() * active.length));
 var active = active[index];
 var characters = [];
